@@ -1,6 +1,6 @@
 # Fullscreen for PhotoSwipe
 
-This plugin adds a fullscreen display buttun to the UI to [PhotoSwipe 5](https://github.com/dimsemenov/PhotoSwipe) by Dmytro Semenov. In addition to clicking the button you can also press the [F] key to enter fullscreen mode.
+This plugin adds a fullscreen display button to the UI to [PhotoSwipe 5](https://github.com/dimsemenov/PhotoSwipe) by Dmytro Semenov similar to the original fullscreen button in PhotoSwipe 4. In addition to clicking the button you can also press the [F] key to enter fullscreen mode.
 
 The code is inspired by ideas decribed in https://github.com/dimsemenov/PhotoSwipe/issues/1759.
 
