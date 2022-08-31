@@ -27,3 +27,13 @@ const fullscreenPlugin = new PhotoSwipeFullscreen(lightbox);
 lightbox.init();
 </script>
 ```
+
+## Changelog
+
+### 1.0.1
+
+Bugfix: the fullscreen button will only be displayed when the fullscreen API is supported.
+
+### 1.0.0
+
+Initial release
