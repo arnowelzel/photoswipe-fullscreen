@@ -28,7 +28,19 @@ lightbox.init();
 </script>
 ```
 
+You can also translate the tooltip label of the fullscreen icon:
+
+```
+const fullscreenPlugin = new PhotoSwipeFullscreen(lightbox, {
+  fullscreenTitle: 'Toggle fullscreen'
+});
+```
+
 ## Changelog
+
+### 1.0.2
+
+Added option to translate the UI label.
 
 ### 1.0.1
 
