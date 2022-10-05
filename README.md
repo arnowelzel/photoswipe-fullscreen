@@ -38,6 +38,10 @@ const fullscreenPlugin = new PhotoSwipeFullscreen(lightbox, {
 
 ## Changelog
 
+### 1.0.3
+
+Added workaround to avoid fullscreen button registered multiple times when PhotoSwipe is triggering the callback multiple times.
+
 ### 1.0.2
 
 Added option to translate the UI label.
