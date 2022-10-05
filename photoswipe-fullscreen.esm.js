@@ -17,7 +17,7 @@ class PhotoSwipeFullscreen {
             ...options
         };
         this.lightbox = lightbox;
-		this.uiInit = false;
+        this.uiInit = false;
         this.lightbox.on('init', () => {
             this.initPlugin();
         });
@@ -34,10 +34,10 @@ class PhotoSwipeFullscreen {
             '</svg>';
 
         if (this.fullscreenAPI) {
-			if (this.uiInit) {
-				return;
-			}
-			this.uiInit = true;
+            if (this.uiInit) {
+                return;
+            }
+            this.uiInit = true;
             this.lightbox.on('uiRegister', () => {
                 this.pswp.ui.registerElement({
                     name: 'fullscreen-button',
