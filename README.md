@@ -38,6 +38,10 @@ const fullscreenPlugin = new PhotoSwipeFullscreen(lightbox, {
 
 ## Changelog
 
+### 1.0.4
+
+Changed detection of fullscreen API to make it work with Safari on iPad.
+
 ### 1.0.3
 
 Added workaround to avoid fullscreen button registered multiple times when PhotoSwipe is triggering the callback multiple times.
