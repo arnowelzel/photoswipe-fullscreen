@@ -38,6 +38,10 @@ const fullscreenPlugin = new PhotoSwipeFullscreen(lightbox, {
 
 ## Changelog
 
+### 1.0.5
+
+Fixed UI handler registration.
+
 ### 1.0.4
 
 Changed detection of fullscreen API to make it work with Safari on iPad.
