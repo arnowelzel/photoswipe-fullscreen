@@ -1,0 +1,24 @@
+{
+  "name": "photoswipe-fullscreen",
+  "version": "1.0.5",
+  "description": "Fullscreen for PhotoSwipe",
+  "main": "photoswipe-fullscreen.esm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnowelzel/photoswipe-fullscreen"
+  },
+  "keywords": [
+    "PhotoSwipe",
+    "full",
+    "screen"
+  ],
+  "author": "Arno Welzel <github@arnowelzel.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnowelzel/photoswipe-fullscreen/issues"
+  },
+  "homepage": "https://github.com/arnowelzel/photoswipe-fullscreen#readme"
+}
